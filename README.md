@@ -27,7 +27,3 @@ Currently developing enterprise software solutions at Colorado State University 
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-
-
